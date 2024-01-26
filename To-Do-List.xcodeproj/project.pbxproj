@@ -12,6 +12,7 @@
 		689E0F2A2B62B5F200E4C727 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 689E0F292B62B5F200E4C727 /* Assets.xcassets */; };
 		689E0F2D2B62B5F200E4C727 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 689E0F2C2B62B5F200E4C727 /* Preview Assets.xcassets */; };
 		689E0F342B62BC9E00E4C727 /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 689E0F332B62BC9E00E4C727 /* ToDoList.swift */; };
+		689E0F362B62BD8A00E4C727 /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 689E0F352B62BD8A00E4C727 /* AddItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		689E0F292B62B5F200E4C727 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		689E0F2C2B62B5F200E4C727 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		689E0F332B62BC9E00E4C727 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		689E0F352B62BD8A00E4C727 /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				689E0F252B62B5F000E4C727 /* To_Do_ListApp.swift */,
 				689E0F272B62B5F000E4C727 /* ContentView.swift */,
+				689E0F352B62BD8A00E4C727 /* AddItemView.swift */,
 				689E0F332B62BC9E00E4C727 /* ToDoList.swift */,
 				689E0F292B62B5F200E4C727 /* Assets.xcassets */,
 				689E0F2B2B62B5F200E4C727 /* Preview Content */,
@@ -143,6 +146,7 @@
 				689E0F282B62B5F000E4C727 /* ContentView.swift in Sources */,
 				689E0F342B62BC9E00E4C727 /* ToDoList.swift in Sources */,
 				689E0F262B62B5F000E4C727 /* To_Do_ListApp.swift in Sources */,
+				689E0F362B62BD8A00E4C727 /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
