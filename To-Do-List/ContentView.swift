@@ -48,7 +48,7 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 
-struct ToDoItem: Identifiable {
+struct ToDoItem: Identifiable, Codable {
     var id = UUID()
     var priority = String()
     var description = String()
